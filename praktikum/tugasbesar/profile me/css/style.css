@@ -1,0 +1,120 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    background-color: black;
+}
+header {
+    position: relative;
+    width: 100%;
+    height: 103vh;
+}
+
+.banner{
+    padding-top: 140px;
+    
+}
+
+#circle img {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    margin-top: -300px;
+    background: black;
+    margin-bottom: 13px;
+}
+#circle2 {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    background:yellow;
+    margin-left: 150px;
+    margin-top: -300px;
+}
+
+#circle3{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    background:yellow;
+    margin-right: 150px;
+}
+
+nav {
+    position: fixed;
+    z-index: 9999;
+    width: 100%;
+    text-align: center;
+    top: 0;
+    right: 0;   
+    background :yellow;
+}
+
+nav ul li {
+    padding: 10px 10px;
+    display: inline-block;
+}
+
+nav ul li a {
+    padding: 20px;
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+}
+nav ul li a:hover{
+    color: white;
+}
+
+.title h1.name {
+    font-size: 40px;
+    text-shadow: 2px 2px 10px white;
+    color: yellow;
+    
+}
+.title p{
+    font-size: 20px;
+    color: white;
+    margin-top: -20px;
+}
+
+#about , #education , #picture  {
+    color: yellow;
+    font-size: 50px;
+    text-align: center;
+}
+#p-about {
+    font-size: 30px;
+    text-align: center;
+    margin-top: -50px;
+    color: white;
+}
+
+ol {
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    margin-top: -20px;
+}
+
+.picture {
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+.contact-form {
+    padding-top: 100px;
+    color:yellow;
+    text-align: center;
+  }
+
+  input, textarea {
+    width: 400px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding: 20px;
+    border: 5px solid rgb(26, 21, 21)
+  }
+
+#h1 {
+    font-size: 50px;
+}
+

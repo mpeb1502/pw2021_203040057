@@ -1,0 +1,101 @@
+/* index.php */
+body {
+    background-color: black;
+    opacity: 10;
+}
+
+
+.navbar-brand {
+    color : red; 
+    font-family: 'Reggae One', cursive;
+}
+
+.navbar-brand:hover{
+    color: white;
+}
+
+.nav-link {
+    color :red;
+    font-family: 'Reggae One', cursive;
+}
+
+.nav-link:hover{
+    color: white;
+}
+.d-block {
+    max-height: 500px;
+}
+
+.login {
+    color : black;
+    font-family:'Reggae One' ;
+    background-color: red;
+}
+
+.kuliah h2{
+    margin-top: 30px;
+    color: red;
+    font-family: 'Reggae One', cursive;
+}
+
+.praktikum h2{
+    margin-top: 30px;
+    color: red;
+    font-family: 'Reggae One', cursive;
+}
+
+.tubes h2 {
+    margin-top: 30px;
+    color: red;
+    font-family: 'Reggae One', cursive;
+}
+
+.card {
+    background-color: red;
+}
+
+.list-group-item {
+    background-color: red;
+    font-family: 'Reggae One', cursive;
+}
+
+.list-group-item a {
+    color :black;
+}
+
+.row-footer p {
+    color: red;
+    font-family: 'Reggae One', cursive;
+
+}
+
+.figure {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    opacity: 0,5;
+    margin-left: 50px;
+}
+
+.footer-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    height: 150px;
+    margin-top: -50px;
+}
+
+/* akhir index php */
+
+
+
+
+
+
+
+
+
+
+
+
